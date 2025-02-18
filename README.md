@@ -25,5 +25,5 @@
     ![application_run.png](doc/imgs/application_run.png)
 
 
-## Want to learn more about Dockers and Containers? Check my notes in notion!
-![https://www.notion.so/Containers-19d863b280548087bfeed7be5006198e?pvs=4](https://www.notion.so/Containers-19d863b280548087bfeed7be5006198e?pvs=4)
+## Want to learn more about Docker and Containers? Check my notes in notion!
+https://www.notion.so/Containers-19d863b280548087bfeed7be5006198e?pvs=4
