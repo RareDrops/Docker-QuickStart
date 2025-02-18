@@ -23,3 +23,7 @@
 8. That’s it, you’ve successfully ran your first docker container! If you’ve done everything correctly and viewed your application, you should have something like this.
     
     ![application_run.png](doc/imgs/application_run.png)
+
+
+## Want to learn more about Dockers and Containers? Check my notes in notion!
+![https://www.notion.so/Containers-19d863b280548087bfeed7be5006198e?pvs=4](https://www.notion.so/Containers-19d863b280548087bfeed7be5006198e?pvs=4)
