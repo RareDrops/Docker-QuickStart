@@ -3,7 +3,7 @@
 1. To get started, you first need to download and install Docker at https://docs.docker.com/
 2. Once installed, you should have the desktop application GUI for Docker. Open it up to see and explore the UI. We’ll explore the UI later on after we create our first container and image file.
 3. Now, we will use a template project to make this process easier. you would need to do this manually later on, on your personal project.
-    1. Open your terminal(i.e. CMD) then type the command `git clone https://github.com/docker/welcome-to-docker`
+    1. Open your terminal(i.e. CMD) then type the command `git clone https://github.com/docker/welcome-to-docker` or just clone this repository! `https://github.com/RareDrops/DockerQuickStart`
     2. Open the folder on an IDE of your choice, use the Command Line Interface(CLI) and type `docker build -t welcome-to-docker .` **note**: -t flag allows you to specify the name you’re giving to the image, then the `.` specifies the **build context.** The build context is the directory (and its subdirectories) that Docker will use to find the DockerFile and any other files needed to build the image.
         
         ![dockerfile_build.png](doc/imgs/dockerfile_build.png)
