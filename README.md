@@ -16,11 +16,11 @@
     
     ![image_run.png](doc/imgs/image_run.png)
     
-7. Navigate to Containers tab, you will see an overview of the containers that you have, running the image resulted in a new container being created. This container would also be running the first time you created it via running the image file, so you can just view the application by clicking the link on the `Port` 
+7. **Navigate** to Containers tab, you will see an overview of the containers that you have, running the image resulted in a new container being created. This container would also be running the first time you created it via running the image file, so you can just view the application by clicking the link on the `Port` 
     
     ![container_run.png](doc/imgs/container_run.png)
     
-8. That’s it, you’ve successfully ran your first docker container! If you’ve done everything correctly and viewed your application, you should have something like this.
+8. That’s it, you’ve **successfully** ran your **first docker container**! If you’ve done everything correctly and viewed your application, you should have something like this.
     
     ![application_run.png](doc/imgs/application_run.png)
 
